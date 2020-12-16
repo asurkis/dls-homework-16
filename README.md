@@ -2,6 +2,10 @@
 
 Суркис Антон; Stepik id: [83694640](https://stepik.org/users/83694640)
 
+Графики в директории `diag`,
+история обучения моделей (csv) &mdash; в `histories`.
+Копия блокнота в корневой директории и в [Google Colab](https://colab.research.google.com/drive/1OaVgaMiDgCaB7hpbfbq8kKqhFQY42byL?usp=sharing)
+
 ## Метрики на тестовой выборке:
 |   | BCE | Dice | Focal | Correlation |
 |---|---|---|---|---|
